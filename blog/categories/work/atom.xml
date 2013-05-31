@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Work | SCRABBLE&#9734;NOTE]]></title>
   <link href="http://fakestarbaby.github.io/blog/categories/work/atom.xml" rel="self"/>
   <link href="http://fakestarbaby.github.io/"/>
-  <updated>2013-06-01T02:38:09+09:00</updated>
+  <updated>2013-06-01T02:57:39+09:00</updated>
   <id>http://fakestarbaby.github.io/</id>
   <author>
     <name><![CDATA[fakestarbaby]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[心機一転ブログ再始動！]]></title>
+    <link href="http://fakestarbaby.github.io/blog/2012/12/14/blog-restart/"/>
+    <updated>2012-12-14T02:41:00+09:00</updated>
+    <id>http://fakestarbaby.github.io/blog/2012/12/14/blog-restart</id>
+    <content type="html"><![CDATA[<p>どうも、久しぶりのブログ更新になります。</p>
+
+<p><a href="http://twitter.com/fakestarbaby">@fakestarbaby</a> です。</p>
+
+<p>最近、仕事もプライベートもとてつもなく忙しいという理由にかまけて、全然ブログを更新しなくなっていました。ちょっと、これはマズイだろ！という事で、またブログ再始動したいと思います。</p>
+
+<p>以前は何かイベントがあったタイミングでブログを書くようにしていましたが、これからはもっとカジュアルに書きたくなったら書くようにしたいなーなんて考えています。</p>
+
+<!-- more -->
+
+
+<h2>で、最近どうよ？</h2>
+
+<p>現在は、Fun &amp; Cool Ventures という会社でエンジニアをしています。私以外は全員外国人で、拠点は日本とマレーシアにあるというかなりグローバルな会社です。CEO は元上司でもあり、日本語がとても堪能です。お互い、全力を出し切れる環境でもう一度やってみたいという強い思いから、今一緒に仕事をしています。</p>
+
+<p>拠点は日本とマレーシアと言っても、日本で作業しているのは私一人だけです。CEO が日本に帰って来ている時は顔を合わせる事もありますが、基本的に自宅からリモートで作業をしています。良い時代になりましたよね。遠く離れた国に居ても、ネットですぐに繋がれます。</p>
+
+<p>今は、CoronaSDK による iPhone / Android のゲームアプリの開発エンジニアをしています。11月から始めたので、もう1ヶ月半の経験になりますね。あ、あと、Ruby / Rails もまだ少しやっています。サーバーサイド周りだけですけどね。</p>
+
+<hr />
+
+<p>気が付けば、もう年末・・・2012年の振り返りしておかないとですね。</p>
+
+<p>2012年の残りも最後まで駆け抜けるぞ！</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[退職しました！]]></title>
@@ -152,24 +184,6 @@
 <h2>Thank you!!</h2>
 
 <p>最後に・・・相棒よ、本当にお疲れ様でした！貴重な体験をどうもありがとう！そして、これからも宜しく！</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[もっと仲間を増やしたい！]]></title>
-    <link href="http://fakestarbaby.github.io/blog/2011/12/27/go-out/"/>
-    <updated>2011-12-27T09:48:00+09:00</updated>
-    <id>http://fakestarbaby.github.io/blog/2011/12/27/go-out</id>
-    <content type="html"><![CDATA[<p>来年から、会社のエンジニアは俺ただ一人となる。皆それぞれ自分の進むべき道を真剣に考えた結果、残念ながら離れる事になった。エンジニアが一人、何それ楽しいの？想像しただけでも楽しくないわー。</p>
-
-<!-- more -->
-
-
-<h2>外へ出て、外を知る</h2>
-
-<p>新規事業に携わっているとは言え、俺の軸はエンジニアだ。技術的な話しもしたいし、情報交換もしたい。会社内にそーゆーエンジニアが居ないという事は、もう外に出るしか無いという事だな。</p>
-
-<p>・・・とゆー訳で、来年は色んな勉強会にも積極的に参加して行くつもり。仲間をもっと増やしたい！そう思う今日この頃。</p>
 ]]></content>
   </entry>
   

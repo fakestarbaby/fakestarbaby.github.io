@@ -4,7 +4,7 @@
   <title><![CDATA[SCRABBLE&#9734;NOTE]]></title>
   <link href="http://fakestarbaby.github.io/atom.xml" rel="self"/>
   <link href="http://fakestarbaby.github.io/"/>
-  <updated>2013-06-01T02:38:09+09:00</updated>
+  <updated>2013-06-01T02:57:39+09:00</updated>
   <id>http://fakestarbaby.github.io/</id>
   <author>
     <name><![CDATA[fakestarbaby]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[心機一転ブログ再始動！]]></title>
+    <link href="http://fakestarbaby.github.io/blog/2012/12/14/blog-restart/"/>
+    <updated>2012-12-14T02:41:00+09:00</updated>
+    <id>http://fakestarbaby.github.io/blog/2012/12/14/blog-restart</id>
+    <content type="html"><![CDATA[<p>どうも、久しぶりのブログ更新になります。</p>
+
+<p><a href="http://twitter.com/fakestarbaby">@fakestarbaby</a> です。</p>
+
+<p>最近、仕事もプライベートもとてつもなく忙しいという理由にかまけて、全然ブログを更新しなくなっていました。ちょっと、これはマズイだろ！という事で、またブログ再始動したいと思います。</p>
+
+<p>以前は何かイベントがあったタイミングでブログを書くようにしていましたが、これからはもっとカジュアルに書きたくなったら書くようにしたいなーなんて考えています。</p>
+
+<!-- more -->
+
+
+<h2>で、最近どうよ？</h2>
+
+<p>現在は、Fun &amp; Cool Ventures という会社でエンジニアをしています。私以外は全員外国人で、拠点は日本とマレーシアにあるというかなりグローバルな会社です。CEO は元上司でもあり、日本語がとても堪能です。お互い、全力を出し切れる環境でもう一度やってみたいという強い思いから、今一緒に仕事をしています。</p>
+
+<p>拠点は日本とマレーシアと言っても、日本で作業しているのは私一人だけです。CEO が日本に帰って来ている時は顔を合わせる事もありますが、基本的に自宅からリモートで作業をしています。良い時代になりましたよね。遠く離れた国に居ても、ネットですぐに繋がれます。</p>
+
+<p>今は、CoronaSDK による iPhone / Android のゲームアプリの開発エンジニアをしています。11月から始めたので、もう1ヶ月半の経験になりますね。あ、あと、Ruby / Rails もまだ少しやっています。サーバーサイド周りだけですけどね。</p>
+
+<hr />
+
+<p>気が付けば、もう年末・・・2012年の振り返りしておかないとですね。</p>
+
+<p>2012年の残りも最後まで駆け抜けるぞ！</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Qiita/Kobito Meetup #1に参加したよ！]]></title>
@@ -1098,58 +1130,6 @@
 <blockquote><p>『Keep it fun !! more fun, more fun.』</p></blockquote>
 
 <p>やっぱり、仕事は楽しくありたいわー。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[記念すべき第1回 Shinjuku.rb に参加したよ！]]></title>
-    <link href="http://fakestarbaby.github.io/blog/2012/02/01/shinjukurb/"/>
-    <updated>2012-02-01T21:08:00+09:00</updated>
-    <id>http://fakestarbaby.github.io/blog/2012/02/01/shinjukurb</id>
-    <content type="html"><![CDATA[<p>2012年1月に立ち上がったばかりの Shinjuku.rb 第1回に参加して来ました！</p>
-
-<p>そもそも、Ruby コミュニティに顔を出す事自体が初めてだったので、どんな雰囲気なんだろーとか思ってたんだけど、結構楽しかったですね。</p>
-
-<!-- more -->
-
-
-<h2>LT 大会</h2>
-
-<p>最初は、LT から。</p>
-
-<h3><a href="http://twitter.com/tatsuoSakurai">@tatsuoSakurai</a>さん</h3>
-
-<p>関東近郊の Ruby コミュニティのご紹介でした。自分が知らないだけだと思うけど、結構あるなーと感じた。</p>
-
-<h3><a href="http://twitter.com/mewlist">@mewlist</a>さん</h3>
-
-<p>Gem を作りたいって話し。あれ作ろう、これ作ろうと思って探し始めると大抵あるよね。Ruby や Rails やり始めてから、ほとんど自前でライブラリ書かなくなった気がする。</p>
-
-<h3><a href="http://twitter.com/ckazu">@ckazu</a>さん</h3>
-
-<p>素人が Rails 開発をするまでの実体験。適切な時期に適切な部分を勉強すると、無理なく自分に落とし込めるそうな。確かに・・・・特に必要とされない時期にインプットしてもすぐ忘れるよね。これから、Rails 開発を始めてみたいと思っている人とかにも分かりやすい説明でしたね。</p>
-
-<h3><a href="http://twitter.com/jugyo">@jugyo</a>さん</h3>
-
-<p>自作プラグイン osx_dict のご紹介でした。MacOS X の辞書でリファレンスを高速で引けるのだが、この辞書を自作するプラグインとの事。辞書でリファレンスを引くのは、以前自分も試した事があるけど実運用出来てない。ちょっと、時間がある時にでも試してみたいと思った。</p>
-
-<h3><a href="http://twitter.com/udzura">@udzura</a>さん</h3>
-
-<p>Sinatra の薄い本「Sinatra &ndash; Up and running」のご紹介でした。実際に書籍を持ち込んでくれたのですが、本当に薄い。Sinatra 自体、そんなに書籍も出てないし、メインコミッターの人が著者なのでオススメらしい。</p>
-
-<h2>Rails3 レシピブック読書会</h2>
-
-<h3>RVM でハマる</h3>
-
-<p>後半戦は、Rails3 レシピブックを皆で読み進めるって流れになったのだが、RVM のインストール辺りで、コマンドのヘルプを細かく見て行った為に、Rails のインストールまでも行かなかった。でも、ぶっちゃけ、必要に迫られなければ、あそこまでヘルプを見る事も無かっただろうし、知らずに損する事も実は多そうだなーって感じた。</p>
-
-<h3>RVM is Ruby enViroment Manager</h3>
-
-<p>RVM って Ruby Version Manager だと勝手に思い込んでいたのだが、どうやら、最近になって Ruby enViroment Manager の略称に変わったらしいという事に皆で気付いた。確かに、Ruby だけじゃなく、Gemset の管理もしてますし・・・でも、結構無理がある感じが面白い。</p>
-
-<h2>まとめ</h2>
-
-<p>全体として、ゆる～い感じの勉強会の為、Ruby や Rails はこれからだぜ！って人にもオススメかなーと。また、次回都合が付けば行きたいと思います。</p>
 ]]></content>
   </entry>
   
