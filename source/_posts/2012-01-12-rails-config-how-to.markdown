@@ -3,12 +3,12 @@ layout: post
 title: "rails_configで環境毎に定数を管理しよう！"
 date: 2012-01-12 20:42
 comments: true
-categories: [rails, plugins]
+categories: [Rails, Gem, RailsConfig]
 ---
 
 ## rails_config
 
-定数を開発環境毎にYAMLファイルで管理出来るプラグイン。
+定数を開発環境毎に YAML ファイルで管理出来るプラグイン。
 
 <!-- more -->
 
@@ -20,15 +20,15 @@ categories: [rails, plugins]
 
 ***
 
-### Railsで試してみよう！
+### Rails で試してみよう！
 
-Gemfileにrails_configを記述する。
+Gemfile に rails_config を記述する。
 
 ```ruby Gemfile
 gem 'rails_config'
 ```
 
-コンソールでコマンドを実行すると、必要となるYAMLファイル一式が自動生成される。
+コンソールでコマンドを実行すると、必要となる YAML ファイル一式が自動生成される。
 
 ```bash
 $ bundle install
@@ -51,15 +51,15 @@ $ rails g rails_config:install
 
 * .gitignore
 
-ファイル名称に「local」が含まれるYAMLファイルは、全てローカル環境専用のファイルとみなされる為、これらのファイルをバージョン管理に含めないような定義が追記される。
+ファイル名称に「local」が含まれる YAML ファイルは、全てローカル環境専用のファイルとみなされる為、これらのファイルをバージョン管理に含めないような定義が追記される。
 
 * config/settings.local.yml
 
-ローカル環境専用のYAMLファイル。ローカル環境で動作させている場合は、全てのYAMLファイルに記述されている定数より優先して使用される。ローカル環境のみ、別の定数を割り当てたい時に使用する。
+ローカル環境専用の YAML ファイル。ローカル環境で動作させている場合は、全ての YAML ファイルに記述されている定数より優先して使用される。ローカル環境のみ、別の定数を割り当てたい時に使用する。
 
 * config/settings.yml
 
-全ての環境(development/test/production)のベースとして使用される。環境に左右されない定数を定義したい時に使用する。
+全ての環境(development / test / production)のベースとして使用される。環境に左右されない定数を定義したい時に使用する。
 
 * config/settings/development.yml
 
@@ -93,4 +93,5 @@ $ rails c
 ```
 
 ## どんな感じ？
-同様の機能を持つsettings_logicというプラグインもあるが、こちらは各種ファイルの自動生成コマンドも用意されているし、ローカル環境専用ファイルも用意されているので非常に便利。
+
+同様の機能を持つ settings_logic というプラグインもあるが、こちらは各種ファイルの自動生成コマンドも用意されているし、ローカル環境専用ファイルも用意されているので非常に便利。

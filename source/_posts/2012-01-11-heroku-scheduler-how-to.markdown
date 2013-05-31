@@ -3,12 +3,12 @@ layout: post
 title: "Heroku Scheduler"
 date: 2012-01-11 20:24
 comments: true
-categories: heroku
+categories: [Heroku, HerokuScheduler]
 ---
 
 ## Heroku Scheduler
 
-Heroku上で10分、1時間、1日間隔でバックグラウンドジョブを実行出来る無料アドオンです。
+Heroku 上で10分、1時間、1日間隔でバックグラウンドジョブを実行出来る無料アドオンです。
 
 <!-- more -->
 
@@ -37,7 +37,7 @@ end
 
 ### タスクの詳細設定
 
-Heroku Schedulerアドオンを追加して、タスクを実行するように設定します。
+Heroku Scheduler アドオンを追加して、タスクを実行するように設定します。
 
 ![Heroku Scheduler](http://f.cl.ly/items/3w1z2k0o2P3M1M1T3k44/heroku_scheduler.jpg "Heroku Scheduler")
 
@@ -46,4 +46,4 @@ Heroku Schedulerアドオンを追加して、タスクを実行するように�
 
 ## まとめ
 
-同様のHerokuアドオンとして提供されているHeroku Cronは、アドオンを追加したタイミングから1日間隔でしかバックグラウンドジョブを実行出来ないが、こちらは柔軟に間隔を任意選択出来るのでとっても便利だなーと思った。
+同様の Heroku アドオンとして提供されている Heroku Cron は、アドオンを追加したタイミングから1日間隔でしかバックグラウンドジョブを実行出来ないが、こちらは柔軟に間隔を任意選択出来るのでとっても便利だなーと思った。

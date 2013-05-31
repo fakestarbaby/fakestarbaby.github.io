@@ -3,12 +3,12 @@ layout: post
 title: "ワンクリックデプロイ勉強会に参加したよ！"
 date: 2012-03-06 23:36
 comments: true
-categories: [deploy, event]
+categories: [Deploy, Event]
 ---
 
 2012/03/05(月)に横浜のアットウェアさんにて開催された、ワンクリックデプロイ勉強会に参加した！
 
-当日使用されたスライドは[こちら](http://www.slideshare.net/Ryuzee/101-10647187)。詳細は全てスライドに書いてあるので省略！一番印象に残った言葉についてだけ書く。
+当日使用されたスライドは [こちら](http://www.slideshare.net/Ryuzee/101-10647187) です。詳細は全てスライドに書いてあるので省略！一番印象に残った言葉についてだけ書く。
 
 <!-- more -->
 

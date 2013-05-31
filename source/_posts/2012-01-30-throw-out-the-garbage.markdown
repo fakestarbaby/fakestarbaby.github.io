@@ -3,10 +3,10 @@ layout: post
 title: "大切にしたいモノがあるなら、身軽になるべき！"
 date: 2012-01-30 21:04
 comments: true
-categories: quotes
+categories: Quotes
 ---
 
-どうも、最近めっきりエンジニア色が薄れてきたFakeStarBabyです。同僚がとても素晴らしいツイートをしたのでご紹介をしたいと思います。
+どうも、最近めっきりエンジニア色が薄れてきた [@fakestarbaby](http://twitter.com/fakestarbaby) です。同僚がとても素晴らしいツイートをしたのでご紹介をしたいと思います。
 
 <!-- more -->
 
