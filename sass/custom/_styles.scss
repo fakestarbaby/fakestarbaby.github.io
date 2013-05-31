@@ -9,6 +9,22 @@ article {
   }
 }
 
+aside.sidebar {
+  img {
+    border: none;
+  }
+}
+
+#profile {
+  margin-top: 0.5em;
+  p {
+    padding-top: 5px;
+    strong {
+      font-size: 1.4em;
+    }
+  }
+}
+
 .sharing-on-title {
   position: absolute;
   top: 2px;
