@@ -1,5 +1,10 @@
 {% unless page.no_header %}
   <header>
+    {% unless page.sharing == false %}
+      <div class="sharing-on-title">
+        {% include post/sharing.html %}
+      </div>
+    {% endunless %}
     {% if index %}
       <h1 class="entry-title"><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h1>
     {% else %}

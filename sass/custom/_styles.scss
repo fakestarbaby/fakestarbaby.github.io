@@ -9,6 +9,23 @@ article {
   }
 }
 
+.sharing-on-title {
+  position: absolute;
+  top: 2px;
+  left: 120px;
+}
+
+.pocket-btn {
+  margin-left: 10px;
+  display: inline-block;
+  width: 95px;
+  height: 20px;
+}
+
 iframe.twitter-share-button {
   width: 85px!important;
+}
+
+iframe.hatena-bookmark-button-frame {
+  width: 60px!important;
 }

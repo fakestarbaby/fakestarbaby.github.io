@@ -98,3 +98,9 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
+
+# Pocket
+pocket_button: true
+
+# Hatena Bookmark
+hatena_bookmark_button: true
