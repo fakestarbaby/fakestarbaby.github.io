@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: deploy | SCRABBLE&#9734;NOTE]]></title>
+  <title><![CDATA[Category: Deploy | SCRABBLE&#9734;NOTE]]></title>
   <link href="http://fakestarbaby.github.io/blog/categories/deploy/atom.xml" rel="self"/>
   <link href="http://fakestarbaby.github.io/"/>
-  <updated>2013-05-31T23:47:05+09:00</updated>
+  <updated>2013-06-01T01:39:56+09:00</updated>
   <id>http://fakestarbaby.github.io/</id>
   <author>
     <name><![CDATA[fakestarbaby]]></name>
@@ -20,7 +20,7 @@
     <id>http://fakestarbaby.github.io/blog/2012/03/06/ocdeploy</id>
     <content type="html"><![CDATA[<p>2012/03/05(月)に横浜のアットウェアさんにて開催された、ワンクリックデプロイ勉強会に参加した！</p>
 
-<p>当日使用されたスライドは<a href="http://www.slideshare.net/Ryuzee/101-10647187">こちら</a>。詳細は全てスライドに書いてあるので省略！一番印象に残った言葉についてだけ書く。</p>
+<p>当日使用されたスライドは <a href="http://www.slideshare.net/Ryuzee/101-10647187">こちら</a> です。詳細は全てスライドに書いてあるので省略！一番印象に残った言葉についてだけ書く。</p>
 
 <!-- more -->
 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Shinjuku.rb | SCRABBLE&#9734;NOTE]]></title>
+  <link href="http://fakestarbaby.github.io/blog/categories/shinjuku-dot-rb/atom.xml" rel="self"/>
+  <link href="http://fakestarbaby.github.io/"/>
+  <updated>2013-06-01T01:39:56+09:00</updated>
+  <id>http://fakestarbaby.github.io/</id>
+  <author>
+    <name><![CDATA[fakestarbaby]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[記念すべき第1回 Shinjuku.rb に参加したよ！]]></title>
+    <link href="http://fakestarbaby.github.io/blog/2012/02/01/shinjukurb/"/>
+    <updated>2012-02-01T21:08:00+09:00</updated>
+    <id>http://fakestarbaby.github.io/blog/2012/02/01/shinjukurb</id>
+    <content type="html"><![CDATA[<p>2012年1月に立ち上がったばかりの Shinjuku.rb 第1回に参加して来ました！</p>
+
+<p>そもそも、Ruby コミュニティに顔を出す事自体が初めてだったので、どんな雰囲気なんだろーとか思ってたんだけど、結構楽しかったですね。</p>
+
+<!-- more -->
+
+
+<h2>LT 大会</h2>
+
+<p>最初は、LT から。</p>
+
+<h3><a href="http://twitter.com/tatsuoSakurai">@tatsuoSakurai</a>さん</h3>
+
+<p>関東近郊の Ruby コミュニティのご紹介でした。自分が知らないだけだと思うけど、結構あるなーと感じた。</p>
+
+<h3><a href="http://twitter.com/mewlist">@mewlist</a>さん</h3>
+
+<p>Gem を作りたいって話し。あれ作ろう、これ作ろうと思って探し始めると大抵あるよね。Ruby や Rails やり始めてから、ほとんど自前でライブラリ書かなくなった気がする。</p>
+
+<h3><a href="http://twitter.com/ckazu">@ckazu</a>さん</h3>
+
+<p>素人が Rails 開発をするまでの実体験。適切な時期に適切な部分を勉強すると、無理なく自分に落とし込めるそうな。確かに・・・・特に必要とされない時期にインプットしてもすぐ忘れるよね。これから、Rails 開発を始めてみたいと思っている人とかにも分かりやすい説明でしたね。</p>
+
+<h3><a href="http://twitter.com/jugyo">@jugyo</a>さん</h3>
+
+<p>自作プラグイン osx_dict のご紹介でした。MacOS X の辞書でリファレンスを高速で引けるのだが、この辞書を自作するプラグインとの事。辞書でリファレンスを引くのは、以前自分も試した事があるけど実運用出来てない。ちょっと、時間がある時にでも試してみたいと思った。</p>
+
+<h3><a href="http://twitter.com/udzura">@udzura</a>さん</h3>
+
+<p>Sinatra の薄い本「Sinatra &ndash; Up and running」のご紹介でした。実際に書籍を持ち込んでくれたのですが、本当に薄い。Sinatra 自体、そんなに書籍も出てないし、メインコミッターの人が著者なのでオススメらしい。</p>
+
+<h2>Rails3 レシピブック読書会</h2>
+
+<h3>RVM でハマる</h3>
+
+<p>後半戦は、Rails3 レシピブックを皆で読み進めるって流れになったのだが、RVM のインストール辺りで、コマンドのヘルプを細かく見て行った為に、Rails のインストールまでも行かなかった。でも、ぶっちゃけ、必要に迫られなければ、あそこまでヘルプを見る事も無かっただろうし、知らずに損する事も実は多そうだなーって感じた。</p>
+
+<h3>RVM is Ruby enViroment Manager</h3>
+
+<p>RVM って Ruby Version Manager だと勝手に思い込んでいたのだが、どうやら、最近になって Ruby enViroment Manager の略称に変わったらしいという事に皆で気付いた。確かに、Ruby だけじゃなく、Gemset の管理もしてますし・・・でも、結構無理がある感じが面白い。</p>
+
+<h2>まとめ</h2>
+
+<p>全体として、ゆる～い感じの勉強会の為、Ruby や Rails はこれからだぜ！って人にもオススメかなーと。また、次回都合が付けば行きたいと思います。</p>
+]]></content>
+  </entry>
+  
+</feed>

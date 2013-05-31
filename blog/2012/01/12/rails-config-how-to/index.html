@@ -9,7 +9,7 @@
   <meta name="author" content="fakestarbaby">
 
   
-  <meta name="description" content="rails_config 定数を開発環境毎にYAMLファイルで管理出来るプラグイン。 公式リポジトリ https://github.com/railsjedi/rails_config The Ruby Toolbox https://www.ruby-toolbox.com/projects/ &hellip;">
+  <meta name="description" content="rails_config 定数を開発環境毎に YAML ファイルで管理出来るプラグイン。 公式リポジトリ https://github.com/railsjedi/rails_config The Ruby Toolbox https://www.ruby-toolbox.com/projects &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -115,7 +115,7 @@
 
 <div class="entry-content"><h2>rails_config</h2>
 
-<p>定数を開発環境毎にYAMLファイルで管理出来るプラグイン。</p>
+<p>定数を開発環境毎に YAML ファイルで管理出来るプラグイン。</p>
 
 <!-- more -->
 
@@ -130,16 +130,16 @@
 
 <hr />
 
-<h3>Railsで試してみよう！</h3>
+<h3>Rails で試してみよう！</h3>
 
-<p>Gemfileにrails_configを記述する。</p>
+<p>Gemfile に rails_config を記述する。</p>
 
 <figure class='code'><figcaption><span>Gemfile</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="n">gem</span> <span class="s1">&#39;rails_config&#39;</span>
 </span></code></pre></td></tr></table></div></figure>
 
 
-<p>コンソールでコマンドを実行すると、必要となるYAMLファイル一式が自動生成される。</p>
+<p>コンソールでコマンドを実行すると、必要となる YAML ファイル一式が自動生成される。</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
@@ -178,21 +178,21 @@
 </ul>
 
 
-<p>ファイル名称に「local」が含まれるYAMLファイルは、全てローカル環境専用のファイルとみなされる為、これらのファイルをバージョン管理に含めないような定義が追記される。</p>
+<p>ファイル名称に「local」が含まれる YAML ファイルは、全てローカル環境専用のファイルとみなされる為、これらのファイルをバージョン管理に含めないような定義が追記される。</p>
 
 <ul>
 <li>config/settings.local.yml</li>
 </ul>
 
 
-<p>ローカル環境専用のYAMLファイル。ローカル環境で動作させている場合は、全てのYAMLファイルに記述されている定数より優先して使用される。ローカル環境のみ、別の定数を割り当てたい時に使用する。</p>
+<p>ローカル環境専用の YAML ファイル。ローカル環境で動作させている場合は、全ての YAML ファイルに記述されている定数より優先して使用される。ローカル環境のみ、別の定数を割り当てたい時に使用する。</p>
 
 <ul>
 <li>config/settings.yml</li>
 </ul>
 
 
-<p>全ての環境(development/test/production)のベースとして使用される。環境に左右されない定数を定義したい時に使用する。</p>
+<p>全ての環境(development / test / production)のベースとして使用される。環境に左右されない定数を定義したい時に使用する。</p>
 
 <ul>
 <li>config/settings/development.yml</li>
@@ -247,7 +247,7 @@
 
 <h2>どんな感じ？</h2>
 
-<p>同様の機能を持つsettings_logicというプラグインもあるが、こちらは各種ファイルの自動生成コマンドも用意されているし、ローカル環境専用ファイルも用意されているので非常に便利。</p>
+<p>同様の機能を持つ settings_logic というプラグインもあるが、こちらは各種ファイルの自動生成コマンドも用意されているし、ローカル環境専用ファイルも用意されているので非常に便利。</p>
 </div>
 
 
@@ -275,7 +275,7 @@
 
 <span class="categories">
   
-    <a class='category' href='/blog/categories/plugins/'>plugins</a>, <a class='category' href='/blog/categories/rails/'>rails</a>
+    <a class='category' href='/blog/categories/gem/'>Gem</a>, <a class='category' href='/blog/categories/rails/'>Rails</a>, <a class='category' href='/blog/categories/railsconfig/'>RailsConfig</a>
   
 </span>
 
